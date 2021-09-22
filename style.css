@@ -1,3 +1,13 @@
+#pmp{
+font-style: italic
+}
+#pm{
+    background-image: linear-gradient(#ff99b3,#ff99e6,#cc99ff,#9999ff,#99e6ff,#99ffe6);
+    
+}
+
+
+
 body {
     text-align: center;
 }
@@ -37,4 +47,14 @@ img:hover {
 #school{
     height:300px;
     width:1000px;
+}
+marquee{
+    background-color: black;
+    color: white;
+}
+
+marquee:hover{
+    font-size: 25px;
+    background-color: white;
+    color: black;
 }
